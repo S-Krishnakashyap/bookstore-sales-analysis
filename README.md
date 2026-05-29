@@ -177,8 +177,3 @@ Tracking month-over-month revenue growth.
 
 **S.Krishna Kashyap**
 
-Data Analyst passionate about transforming data into actionable insights through analytics and visualization.
-
----
-
-### ⭐ If you found this project interesting, consider giving it a star.
